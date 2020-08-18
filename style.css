@@ -106,8 +106,8 @@ button:active {
   .quote-text {
     font-size: 2.5rem;
   }
-}
-
-.designer {
-  margin-top: 5px;
+  
+  #new-quote {
+	font-size: 12px;
+  }
 }
